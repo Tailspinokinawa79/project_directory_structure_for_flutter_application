@@ -10,9 +10,9 @@
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Project Directory Structure for Flutter Application
 
-{{PROJECT_DESCRIPTION}}
+Feature-based, scalable directory (folder) structure for Flutter application development.
 
 > [!TIP]
 >
